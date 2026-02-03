@@ -1,16 +1,15 @@
-## Hi there 👋
+YOOOO, im 'orqz'
 
-<!--
-**orqz/orqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently Learning Python, Java, and HTML  
+Meh experience with Lua  
 
-Here are some ideas to get you started:
+Projects :
+- Built a high-usage Roblox Lua script (thousands of users)  
+- Developed hundreds of useless (and some usefull) Discord Bots. [discord.py]
+- Experience with Windows(xp/7/8/10/11), Android(since 1.0), Limited expirience with MacOS, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Setup :
+- i use arch btw
+- Nvidia GeForce RTX 3070 
+- AMD Ryzen 5 5600 
+- 32GB Ram (bough before the ai insident)
