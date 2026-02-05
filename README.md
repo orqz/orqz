@@ -1,15 +1,37 @@
-YOOOO, im 'orqz'
+<h1 align="center">orqz</h1>
 
-Currently Learning Python, Java, and HTML  
-Meh experience with Lua  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=orqz&style=for-the-badge&color=8b5cf6&label=VIEWS" />
+  <img src="https://img.shields.io/github/stars/orqz?style=for-the-badge&color=8b5cf6&label=STARS" />
+  <img src="https://img.shields.io/github/followers/orqz?style=for-the-badge&color=8b5cf6&label=FOLLOWERS" />
+</p>
 
-Projects :
-- Built a high-usage Roblox Lua script (thousands of users)  
-- Developed hundreds of useless (and some usefull) Discord Bots. [discord.py]
-- Experience with Windows(xp/7/8/10/11), Android(since 1.0), Limited expirience with MacOS, 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-8b5cf6?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-8b5cf6?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-8b5cf6?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-8b5cf6?style=flat-square&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-8b5cf6?style=flat-square&logo=linux&logoColor=white"/>
+</p>
 
-Current Setup :
-- i use arch btw
-- Nvidia GeForce RTX 3070 
-- AMD Ryzen 5 5600 
-- 32GB Ram (bough before the ai insident)
+ -> `Experience` <-
+```c
+- Roblox exploit script used by thousands of players
+- Hundreds of custom Discord bots built for clients (discord.py)
+- Five-M server anti-cheat bypass tools
+- Small website development projects
+- Linux server hosting and maintenance
+- Limited Minecraft modding
+```
+
+ -> `System` <-
+```rust
+GPU : Nvidia RTX 3070
+CPU : Ryzen 5 5600
+RAM : 32GB
+```
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=orqz&show_icons=true&theme=dark&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orqz&layout=compact&theme=dark&hide_border=true&title_color=8b5cf6"/>
+</p>
