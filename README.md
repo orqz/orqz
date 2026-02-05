@@ -16,11 +16,11 @@
 
  -> `Experience` <-
 ```c
-- Roblox exploit script used by thousands of players
-- Hundreds of custom Discord bots built for clients (discord.py)
-- Five-M server anti-cheat bypass tools
-- Small website development projects
-- Linux server hosting and maintenance
+- Roblox exploit script used by thousands of players,
+- Hundreds of custom Discord bots,
+- Five-M server anti-cheat bypass tools,
+- Small website development projects,
+- Linux server hosting and maintenance,
 - Limited Minecraft modding
 ```
 
