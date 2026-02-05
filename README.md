@@ -30,8 +30,3 @@ GPU : Nvidia RTX 3070
 CPU : Ryzen 5 5600
 RAM : 32GB
 ```
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=orqz&show_icons=true&theme=dark&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orqz&layout=compact&theme=dark&hide_border=true&title_color=8b5cf6"/>
-</p>
