@@ -27,7 +27,7 @@ Roblox Lua scripts
 
 <div align="center">
   Contact: <a href="https://discord.gg/vRFXc3pvt4">discord</a> |
-  <a href="mailto:contact@orqz.me">contact@orqz.me</a>
+  <a href="mailto:contact@orqz.me">contact@orqz.info</a>
 </div>
 
 
