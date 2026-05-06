@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  Owner of <strong>onGamez</strong> · Trying to achieve my dream.
+  Owner of <a href="https://orqz.info/onGamez"><strong>onGamez</strong></a> · Trying to achieve my dream.
 </p>
 
 <br>
