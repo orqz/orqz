@@ -18,13 +18,8 @@
 <br>
 
 <p align="center">
-  building <a href="https://orqz.info/onGamez"><strong>onGamez</strong></a>
-</p>
-
-<br>
-
-<p align="center">
-  roblox games · discord bots · web · linux
+  i make roblox games, bots, and whatever else sounds fun<br>
+  <a href="https://orqz.info">orqz.info</a> · <a href="https://orqz.info/onGamez">onGamez</a>
 </p>
 
 <br>
@@ -36,4 +31,10 @@
   <a href="https://github.com/orqz">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orqz&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA" height="160"/>
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/orqz?tab=repositories">see what i'm working on</a>
 </p>
