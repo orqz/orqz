@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=orqz&style=flat-square&color=3776AB"/>
   <img src="https://img.shields.io/github/stars/orqz?style=flat-square&color=2C2D72&cacheSeconds=3600"/>
-  <img src="https://img.shields.io/github/followers/orqz?style=flat-square&color=00599C&cacheSeconds=3600"/>
 </p>
 
 <p align="center">
