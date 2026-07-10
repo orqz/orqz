@@ -3,32 +3,28 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=orqz&style=for-the-badge&color=333333"/>
-  <img src="https://img.shields.io/github/stars/orqz?style=for-the-badge&color=333333&cacheSeconds=3600"/>
-  <img src="https://img.shields.io/github/followers/orqz?style=for-the-badge&color=333333&cacheSeconds=3600"/>
+  <img src="https://komarev.com/ghpvc/?username=orqz&style=flat-square&color=555555"/>
+  <img src="https://img.shields.io/github/stars/orqz?style=flat-square&color=555555&cacheSeconds=3600"/>
+  <img src="https://img.shields.io/github/followers/orqz?style=flat-square&color=555555&cacheSeconds=3600"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-333333?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-333333?style=flat-square&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white"/>
-</p>
-
-<br>
-
-<p align="center">
-  Owner of <a href="https://orqz.info/onGamez"><strong>onGamez</strong></a> · Trying to achieve my dream.
+  <img src="https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-555555?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-555555?style=flat-square&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white"/>
 </p>
 
 <br>
 
 <p align="center">
-  <b>✦ stuff i do ✦</b><br><br>
-  🤖 discord bots & random automation stuff<br>
-  🐧 linux servers / hosting things<br>
-  🌐 web projects (nothing crazy)<br>
-  🎮 roblox lua / making games
+  building <a href="https://orqz.info/onGamez"><strong>onGamez</strong></a>
+</p>
+
+<br>
+
+<p align="center">
+  roblox games · discord bots · web · linux
 </p>
 
 <br>
@@ -40,11 +36,4 @@
   <a href="https://github.com/orqz">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orqz&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA" height="160"/>
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://orqz.info/discord"><img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://orqz.info/mail"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
