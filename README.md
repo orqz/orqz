@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-555555?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-555555?style=flat-square&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white"/>
 </p>
 
 <br>
@@ -20,17 +20,6 @@
 <p align="center">
   i make roblox games, bots, and whatever else sounds fun<br>
   <a href="https://orqz.info">orqz.info</a> · <a href="https://orqz.info/onGamez">onGamez</a>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/orqz">
-    <img src="https://github-readme-stats.vercel.app/api?username=orqz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=888888&text_color=AAAAAA" height="160"/>
-  </a>
-  <a href="https://github.com/orqz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orqz&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA" height="160"/>
-  </a>
 </p>
 
 <br>
